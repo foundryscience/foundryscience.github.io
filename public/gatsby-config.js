@@ -1,12 +1,12 @@
 const _ = require("lodash")
 
 module.exports = {
-  pathPrefix: "/foundry",
+  pathPrefix: "/",
   siteMetadata: {
     title: `The Foundry`,
     description: ``,
     author: `@mattfeng`,
-    siteUrl: `https://hhbms.github.io/`,
+    siteUrl: `https://foundryscience.github.io/`,
   },
   plugins: [
     `gatsby-plugin-slug`,
